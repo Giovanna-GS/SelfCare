@@ -1,0 +1,41 @@
+@media (max-width:570px) {
+  *{
+    font-size: 16px;
+  }
+  header img{
+    width: 20px;
+    height: 20px;
+  }
+  
+  .banner{
+    width: 100%;
+    
+  }
+  .produtos img{
+    width: 190px;
+    height: 190px;
+  }
+  .fila{
+    flex-direction: column;
+  }
+  .contato{
+    flex-direction: column;
+    
+  }
+  .contato a{
+    font-size: 16px;
+  }
+  .email{
+   width: 270px; 
+  }
+  .botao{
+    width: 270px;
+    margin-top: 20px;
+  }
+  .social img{
+    width: 30px;
+  }
+  .pagamento img{
+    width: 150px;
+  }
+}

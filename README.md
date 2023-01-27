@@ -10,7 +10,6 @@ Projeto da loja de produtos de beleza SelfCare <br/>
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
 </p>
-<p align="center" style="color:yellow">▶Projeto em andamento</p>
 
 <br>
 
